@@ -71,6 +71,7 @@
   color: white;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 
 .button-elem:hover {

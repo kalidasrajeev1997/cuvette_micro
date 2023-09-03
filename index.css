@@ -107,6 +107,10 @@
   text-align: left;
 }
 
+.link-li {
+  height: 32px;
+}
+
 .list {
   list-style: none;
 }
